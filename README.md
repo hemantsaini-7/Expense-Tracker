@@ -11,4 +11,4 @@ Keep track of income and expenses. Add and remove items and save to local storag
 - Persist to local storage
 
 ## Skills 
-##### `Javascript` `LocalStorage`
+##### `Javascript` `LocalStorage` `CSS3` 
