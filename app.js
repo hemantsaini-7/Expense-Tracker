@@ -17,7 +17,7 @@ mongoose
   .connect(dbURI)
   .then((result) => {
     app.listen(PORT);
-    console.log(`connected to mongodb and listening at PORT ${PORT}`);
+    console.log(`connected to mongodb, listening at PORT ${PORT}`);
   })
   .catch((err) => console.error(err));
 
